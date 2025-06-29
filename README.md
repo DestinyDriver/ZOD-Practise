@@ -1,2 +1,3 @@
-Today done some practise of ZOD
-and built some input validation systems
+Today done some practise of ZOD 
+&
+built some input validation systems
