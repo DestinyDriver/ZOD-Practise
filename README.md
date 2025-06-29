@@ -1,2 +1,2 @@
-# ZOD-Practise
-PDF of ZOD practise question
+Today done some practise of ZOD
+and built some input validation systems
